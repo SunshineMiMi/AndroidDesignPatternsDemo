@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDesignPatterns</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_memo_hint">记下你的想法,最多50字</string>
+    <string name="text_memo_save">保存</string>
+</resources>
